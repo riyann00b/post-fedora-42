@@ -1,9 +1,3 @@
-Of course! Let's give that guide a modern and visually appealing makeover. A well-formatted and stylish README can make the process much more engaging.
-
-Here is a revamped version with emojis, badges, collapsible sections for advanced steps, and a more polished structure.
-
----
-
 <br/>
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Fedora_icon_%282021%29.svg" alt="Fedora Logo" width="100"/>
@@ -15,9 +9,9 @@ Here is a revamped version with emojis, badges, collapsible sections for advance
   Your one-stop guide to perfecting a fresh Fedora 42 installation. ✨
   <br/>
   <br/>
-  <a href="https://github.com/YOUR_USERNAME/YOUR_REPO/issues">Report an Issue</a>
+  <a href="https://github.com/riyann00b/post-fedora-42/issues">Report an Issue</a>
   ·
-  <a href="https://github.com/YOUR_USERNAME/YOUR_REPO/pulls">Request a Feature</a>
+  <a href="https://github.com/riyann00b/post-fedora-42/pulls">Request a Feature</a>
 </p>
 
 <p align="center">
