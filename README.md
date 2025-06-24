@@ -6,7 +6,7 @@ Here is a revamped version with emojis, badges, collapsible sections for advance
 
 <br/>
 <p align="center">
-  <img src="https://fedoraproject.org/static/logo/f.svg" alt="Fedora Logo" width="100"/>
+  <img src="https://commons.wikimedia.org/wiki/File:Fedora_icon_(2021).svg" alt="Fedora Logo" width="100"/>
 </p>
 
 <h1 align="center">Fedora 42 Post-Install Guide</h1>
